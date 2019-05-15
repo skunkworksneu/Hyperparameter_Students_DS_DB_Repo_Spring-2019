@@ -1,0 +1,2 @@
+# Hyperparameter_Students_DS_DB_Repo_Spring-2019
+Concsists of all the individual repository work of Students those who worked for Hyperparameter Data Base Project under the skunkworks for the period Spring'19. Includes the work of INFO6105 &amp; INFO6210. The link to the official GitHub Classroom repository is https://classroom.github.com/classrooms/45440008-hyperparameter-db-project/group-assignments/hyperparameter-db-project
